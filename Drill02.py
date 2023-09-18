@@ -1,6 +1,7 @@
 from pico2d import *
 import math
 
+
 open_canvas()
 
 grass = load_image('grass.png')
